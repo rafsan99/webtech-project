@@ -1,0 +1,6 @@
+1.school logo vs full page(logo should be in main page. e.g beside School Name)
+2. page structure(css)
+3. Admission page department selection
+4. password hashing
+
+5.pagination
